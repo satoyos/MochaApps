@@ -101,7 +101,7 @@ mas 'Battery Monitor', id: 836505650
 mas 'Numbers', id: 409203825
 mas 'Quiver', id: 866773894
 mas 'Skitch', id: 425955336
-mas 'Slack, id: 803453959
+mas 'Slack', id: 803453959
 mas 'Keynote', id: 409183694
 mas '1Password', id: 443987910
 mas 'Kobito', id: 896624060
